@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on being a full-stack Developer.
-👯 I’m looking to collaborate on
+👯 I’m looking to collaborate on making huge changes in the tech world
 🤝 I’m looking for help with Algorithms
 🌱 I’m currently learning Blockchain technology.
 💬 Ask me about anything about Python.
